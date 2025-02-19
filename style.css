@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%; /*Để quy đổi 1 rem = 10px*/
+}
+body {
+  font-size: 1.6rem;
+}
